@@ -4,7 +4,7 @@ Please clone the ToDo app template from here to start the easy firebase CRUD app
 
 [Vue-ToDoリストスターター](https://github.com/TraitOtaku/Vue-ToDo-Starter)
 
-Used technology
+Stack
 
 * Vue3
 * TailwindCSS（Optional）
