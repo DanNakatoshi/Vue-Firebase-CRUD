@@ -1,7 +1,20 @@
-# Vue 3 + Vite
+## **Let's Create a Vue ToDo App with Firestore**
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Please clone the ToDo app template from here to start the easy firebase CRUD app
 
-## Recommended IDE Setup
+[Vue-ToDoリストスターター](https://github.com/TraitOtaku/Vue-ToDo-Starter)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Used technology
+
+* Vue3
+* TailwindCSS（Optional）
+* Firebase ← Today's work
+
+
+```bash
+git clone https://github.com/DanNakatoshi/Vue-Firebase-CRUD
+cd Vue-ToDo-Starter
+npm i
+code .
+npm run dev
+```
